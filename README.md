@@ -29,7 +29,6 @@ Plus the agent layer: Claude, local Ollama, MCP servers, and whatever wires them
 | [duolicious-demo](https://github.com/Rapitzo/duolicious-demo) | Patch-overlay studio fork of Duolicious |
 | [security](https://github.com/Rapitzo/security) | Privacy-first wrapper for Claude Code — secret scanning + env hardening |
 | [ultimateWorker](https://github.com/Rapitzo/ultimateWorker) | AI work OS: Tauri desktop + mobile companion |
-| [bolehboleh](https://github.com/Rapitzo/bolehboleh) | Flutter app for learning Malay |
 
 ### How I work
 
@@ -41,4 +40,4 @@ Plus the agent layer: Claude, local Ollama, MCP servers, and whatever wires them
 ### Contact
 
 - GitHub: [@Rapitzo](https://github.com/Rapitzo)
-- Location: Kalmar, Sweden
+- Location: Kalmar, Sweden — moving to Kuala Lumpur, Malaysia
