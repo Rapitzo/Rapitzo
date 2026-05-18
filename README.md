@@ -6,9 +6,7 @@ I care about shipping software that does one thing well, doesn't trust the cloud
 
 ### Currently building
 
-- **On-device AI for mobile** — downloadable knowledge packs, local LLM inference, RAG without a backend
-- **AI-native developer environments** — multi-pane terminals with shared agent memory and MCP coordination
-- **Accessible web components** — small, focused libraries that solve one thing properly
+On-device AI for mobile: downloadable knowledge packs, local LLM inference, RAG without a backend. AI-native developer environments: multi-pane terminals with shared agent memory and MCP coordination. Accessible web components: small, focused libraries that solve one thing properly.
 
 ### Stack
 
@@ -29,6 +27,8 @@ Plus the agent layer: Claude, local Ollama, MCP servers, and whatever wires them
 | [duolicious-demo](https://github.com/Rapitzo/duolicious-demo) | Patch-overlay studio fork of Duolicious |
 | [security](https://github.com/Rapitzo/security) | Privacy-first wrapper for Claude Code — secret scanning + env hardening |
 | [ultimateWorker](https://github.com/Rapitzo/ultimateWorker) | AI work OS: Tauri desktop + mobile companion |
+| [SwedishBirdex](https://github.com/Rapitzo/SwedishBirdex) | Mobile app for Swedish birding: BirdNET sound ID, photo ID, habitat maps |
+| [musiccleaner](https://github.com/Rapitzo/musiccleaner) | Python toolkit that humanizes AI-generated music so it transcribes cleanly to MIDI |
 
 ### How I work
 
