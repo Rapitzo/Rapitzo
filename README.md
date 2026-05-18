@@ -41,4 +41,4 @@ Plus the agent layer: Claude, local Ollama, MCP servers, and whatever wires them
 ### Contact
 
 - GitHub: [@Rapitzo](https://github.com/Rapitzo)
-- Location: Kalmar, Sweden — moving to Kuala Lumpur, Malaysia
+- Location: Kalmar, Sweden
