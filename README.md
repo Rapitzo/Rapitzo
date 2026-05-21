@@ -18,6 +18,7 @@ Plus the agent layer: Claude, local Ollama, MCP servers, and whatever wires them
 
 | Project | What it does |
 |---|---|
+| [Swedish Birdex](https://github.com/Rapitzo/SwedishBirdex) | Phone app project for logging birds |
 | [vue-a11y-phone](https://github.com/Rapitzo/vue-a11y-phone) | Accessible international phone input for Vue 3 |
 | [OfflineOS](https://github.com/Rapitzo/OfflineOS) | Mobile-first offline AI: downloadable knowledge, local llama.cpp, RAG search |
 | [studio-knowledge-chat](https://github.com/Rapitzo/studio-knowledge-chat) | Next.js 14 + pgvector RAG chat with citation deep-links |
