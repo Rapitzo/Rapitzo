@@ -1,42 +1,31 @@
 ## Rickard Lindbom
 
-Senior full-stack engineer based in Sweden. Building AI-native developer tools, on-device AI for mobile, and accessible OSS libraries.
+**Fullstack Developer · Frontend & AI focus.** Kalmar, Sweden (EU / CET).
 
-I care about shipping software that does one thing well, doesn't trust the cloud by default, and stays kind to whoever inherits the codebase.
+I ship Vue 3 and C#/.NET customer portals by day and build MCP and agent tooling on the side. Available for contract work via Lindforge Digital Studio, my registered Swedish software studio.
 
-### Currently building
-
-On-device AI for mobile: downloadable knowledge packs, local LLM inference, RAG without a backend. AI-native developer environments: multi-pane terminals with shared agent memory and MCP coordination. Accessible web components: small, focused libraries that solve one thing properly.
-
-### Stack
-
-TypeScript · Rust · Go · Python · Swift · Kotlin · Flutter · React Native · Next.js · PostgreSQL · Tauri · Docker
-
-Plus the agent layer: Claude, local Ollama, MCP servers, and whatever wires them together.
-
-### Selected open-source work
+### Featured projects
 
 | Project | What it does |
 |---|---|
-| [Swedish Birdex](https://github.com/Rapitzo/SwedishBirdex) | Phone app project for logging birds |
-| [vue-a11y-phone](https://github.com/Rapitzo/vue-a11y-phone) | Accessible international phone input for Vue 3 |
-| [OfflineOS](https://github.com/Rapitzo/OfflineOS) | Mobile-first offline AI: downloadable knowledge, local llama.cpp, RAG search |
-| [studio-knowledge-chat](https://github.com/Rapitzo/studio-knowledge-chat) | Next.js 14 + pgvector RAG chat with citation deep-links |
-| [medusa-b2b-fasteners](https://github.com/Rapitzo/medusa-b2b-fasteners) | Headless B2B commerce on Medusa v2 with trade-tier pricing |
-| [ai-ops-dashboard](https://github.com/Rapitzo/ai-ops-dashboard) | Local time-series dashboard with model-written change briefs |
-| [coldsignal-web](https://github.com/Rapitzo/coldsignal-web) | Audited Claude agent for PagerDuty incident triage |
-| [duolicious-demo](https://github.com/Rapitzo/duolicious-demo) | Patch-overlay studio fork of Duolicious |
-| [security](https://github.com/Rapitzo/security) | Privacy-first wrapper for Claude Code — secret scanning + env hardening |
-| [musiccleaner](https://github.com/Rapitzo/musiccleaner) | Python toolkit that humanizes AI-generated music so it transcribes cleanly to MIDI |
+| [mcplock](https://github.com/Rapitzo/mcplock) | Lockfile and tool-poisoning scanner for MCP servers. Pins every tool's name, description and schema into `mcp.lock.json`, fails in CI when a tool silently changes, and scans tool text for poisoning patterns. Bun + TypeScript. |
+| [umbraco-vue-headless-demo](https://github.com/Rapitzo/umbraco-vue-headless-demo) | Headless Umbraco 17 site: the Content Delivery API feeds a typed Vue 3 + TypeScript frontend, with the content model seeded in code. |
+| [Skein](https://portfolio-rick.vercel.app/projects/skein) | Multiplayer agent IDE: several AI agents share one tiled workspace. Yjs CRDT sync, agent coordination over MCP, self-hosted P2P transport over cloudflared. Tauri 2 + Rust. |
+| [SwedishBirdex](https://github.com/Rapitzo/SwedishBirdex) | React Native app that identifies Swedish bird species from a photo. TensorFlow Lite inference runs on-device against a model trained on a curated Swedish dataset. |
 
-### How I work
+Also public: [vue-a11y-phone](https://github.com/Rapitzo/vue-a11y-phone) (accessible international phone input for Vue 3), [OfflineOS](https://github.com/Rapitzo/OfflineOS) (offline mobile AI with local llama.cpp and RAG), [studio-knowledge-chat](https://github.com/Rapitzo/studio-knowledge-chat) (Next.js + pgvector RAG chat).
 
-- Comfortable owning a feature from product spec to production
-- Prefer small, atomic commits over heroic merges
-- Tests on what matters; no test theater
-- Available for remote work, EU or APAC timezones (relocating to Kuala Lumpur)
+### Stack
 
-### Contact
+- Frontend: Vue 3, React, Next.js, TypeScript, Razor
+- Backend: C#/.NET (CQRS / MediatR), Python (FastAPI), Go, Node.js, PostgreSQL
+- CMS and cloud: EPiServer (Optimizely), Umbraco, Azure App Service, Azure DevOps, AWS, Supabase, Docker
+- Mobile: React Native, Expo, Flutter, Kotlin
+- AI tooling: MCP servers, agent coordination, TensorFlow Lite, Claude Code for agentic development
+- Systems: Rust, Tauri 2, Yjs
 
-- GitHub: [@Rapitzo](https://github.com/Rapitzo)
-- Location: Kalmar, Sweden — moving to Kuala Lumpur, Malaysia
+### Links
+
+- Portfolio: [portfolio-rick.vercel.app](https://portfolio-rick.vercel.app/)
+- LinkedIn: [Rickard Lindbom](https://www.linkedin.com/in/rickard-lindbom-61229128b/)
+- Contract work: [Work with me](https://portfolio-rick.vercel.app/work-with-me) (remote contracts through Lindforge Digital Studio)
